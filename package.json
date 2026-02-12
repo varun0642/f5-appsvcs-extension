@@ -22,7 +22,7 @@
     "@automation-toolchain/f5-appsvcs-schema": "^0.57.0",
     "@f5devcentral/atg-shared-utilities-dev": "^0.2.21",
     "@f5devcentral/eslint-config-f5-atg": "^0.1.8",
-    "@redocly/cli": "^1.34.4",
+    "@redocly/cli": "^1.34.5",
     "aws-sdk": "^2.1691.0",
     "chai": "^4.3.10",
     "chai-as-promised": "^7.1.2",
